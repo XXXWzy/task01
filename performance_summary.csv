@@ -1,0 +1,2 @@
+Model,Experiment,Pretrained,Freeze Features,Best Val Acc (%),Test Acc (%),Final Train Loss,Final Val Loss,Epochs Trained,Learning Rate
+demo,resnet18_quick,True,False,91.58415841584159,88.70196564547547,0.26892874076178197,0.3687690835642187,3,0.001

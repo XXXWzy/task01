@@ -1,0 +1,2 @@
+Experiment Name,Model,Experiment Type,Pretrained,Freeze Features,Learning Rate,Batch Size,Epochs Planned,Epochs Actual,LR Scheduler,Step Size,Gamma,Optimizer,Weight Decay,Loss Function,Validation Split,Data Augmentation,Best Val Acc (%),Test Acc (%),Train Samples,Val Samples,Test Samples
+demo_resnet18_quick,demo,resnet18_quick,True,False,0.001,32,3,3,step,2,0.1,Adam,1e-4,CrossEntropyLoss,0.2,True,91.58,88.70,3030,606,5647
